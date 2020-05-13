@@ -1,0 +1,22 @@
+#Server-Log-5/13/2020 - 12:04PM > 12:15PM
+
+Starting Up PMC-Server-"Rolling2thebeat's server of goodness"...
+
+/ping localhost
+
+Sending Packets to server-rolling...
+Sending Packets to server-rolling...
+Sending Packets to server-rolling...
+Sending Packets to server-rolling...
+100% Receive!
+
+/send files: cyanide_klyde >> wild_klyde_website.mf5
+
+Files Sent.
+
+/variable-set wkw = wild_klyde_website.mf5
+
+/ping localhost > index.html >> wkw
+
+File found "index.html" on wild_klyde_website.mf5.
+
