@@ -25,6 +25,19 @@ body {
 
 /* Page Content */
 .content {padding:20px;}
+
+.zoom {
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
 </style>
 </head>
 <body>
@@ -38,7 +51,9 @@ body {
   <h1>Stuff about things</h1>
   Read The Book Of Klyde <a href="book.txt">here</a>
   <br>
-  <img src="bookcover.png" height=350>
+  (Hover over image to zoom!)
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="bookcover.png" height=350 class="zoom">
   <br>
   <a href="../index.html">🡄Return to Homepage</a>
 </div>
