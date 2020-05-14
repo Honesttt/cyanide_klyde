@@ -1,0 +1,5 @@
+MESSAGE FROM ADMIN: "Server's down guys, doing updates."
+Cannot Connect to server: "rolling-to-the-beat's-server"
+Server may be shut down?
+error code PMC-12 "Cannot access. 404"
+If you are a server administrator, scan the chatlogs.
