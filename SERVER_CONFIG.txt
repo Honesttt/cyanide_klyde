@@ -1,0 +1,16 @@
+Error connecting to server, is online mode turned off?
+
+===========SERVER_CONFIG=================
+# COPYRIGHT 2020 HONEST PRODUCTIONS.
+# Server: Bonnie&Klyde
+
+online-mode: false
+open-server: true
+acessbyHTTP: true
+Firewall-Val: Moderate
+# Firewall-Val Protection Controls: High, Moderate, Low, Off
+LANallowed: false
+Multi-IPmode: true
+server-ip: 192.168.1.238
+public-ip: 483.545.3.481
+=============(C) HONEST PROD.===========================
